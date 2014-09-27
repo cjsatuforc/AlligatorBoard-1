@@ -1,7 +1,7 @@
 AlligatorBoard
 ==============
 
-The Latest Generation Electronic for RepRap 3D printer
+The New Generation Electronic for RepRap 3D printer
 
 The Alligator Board is designed to be a complete and reliable solution as RepRap 3D printer 
 electronic control board. The base module features everything you need to build a standard 3D printer, 
